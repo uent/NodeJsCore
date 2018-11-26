@@ -1,5 +1,8 @@
 # NodeJsCore
 
+Instalar todas las dependencias
+* npm install
+
 Instalar dependencias
 * npm install @babel/core
 * npm install @babel/cli
